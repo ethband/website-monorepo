@@ -29,6 +29,13 @@
     "launchpad-e2e": {
       "tags": [],
       "implicitDependencies": ["launchpad"]
+    },
+    "landing": {
+      "tags": []
+    },
+    "landing-e2e": {
+      "tags": [],
+      "implicitDependencies": ["landing"]
     }
   }
 }
